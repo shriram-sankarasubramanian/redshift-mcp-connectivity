@@ -1,5 +1,10 @@
 # Notice
 
+I have not done with the above structure of code, just a simple python file which will convert english to SQL using LLM and another python file will run the query to produce the results.
+
+
+# Notice
+
 > AWS has officially released the Amazon Redshift MCP Server. We recommend using the official implementation available at: https://github.com/aws-samples/sample-amazon-redshift-MCP-server.git. This repository will no longer be updated.
 
 
@@ -151,3 +156,6 @@ redshift-mcp-server/
 - `mcp[cli]>=1.5.0` - Model Context Protocol SDK
 - `python-dotenv>=1.1.0` - For loading environment variables from .env files
 - `redshift-connector>=2.1.5` - Python connector for Amazon Redshift
+
+
+
